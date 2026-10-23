@@ -1,0 +1,266 @@
+[
+ {
+  "id": 1,
+  "name": "Hiru FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+  "format": "mp3"
+ },
+ {
+  "id": 2,
+  "name": "Shaa FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden",
+  "format": "mp3"
+ },
+ {
+  "id": 3,
+  "name": "Sirasa FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://live.trusl.com:1170/;",
+  "format": "aac"
+ },
+ {
+  "id": 4,
+  "name": "Y FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://mbc.thestreamtech.com:7032/",
+  "format": "aac"
+ },
+ {
+  "id": 5,
+  "name": "Neth FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://cp11.serverse.com/proxy/nethfm/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 6,
+  "name": "Lakhanda",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 7,
+  "name": "Siyatha FM",
+  "frequency": "98.2 / 98.4 FM",
+  "language": "Sinhala",
+  "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+  "format": "mp3"
+ },
+ {
+  "id": 8,
+  "name": "V FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://dc1.serverse.com:7178/stream/1/",
+  "format": "mp3"
+ },
+ {
+  "id": 9,
+  "name": "Ran FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://a3.asurahosting.com/listen/ranfm/radio.mp3",
+  "format": "mp3"
+ },
+ {
+  "id": 10,
+  "name": "ISIRA Radio",
+  "frequency": "89.1 / 89.3 FM",
+  "language": "Sinhala",
+  "url": "http://124.43.10.122:8080/live",
+  "format": "mp3"
+ },
+ {
+  "id": 11,
+  "name": "Kothmale FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "https://s11.myradiostream.com:25116/listen.mp3",
+  "format": "aac"
+ },
+ {
+  "id": 12,
+  "name": "Rangiri Sri Lanka",
+  "frequency": "104.4 / 105.7 FM",
+  "language": "Sinhala",
+  "url": "https://rangiri.radioca.st/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 13,
+  "name": "Lakviru Radio",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://cp11.serverse.com:7643/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 14,
+  "name": "SLBC Swadeshiya Sewaya",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://220.247.227.6:8000/Snsstream",
+  "format": "mp3"
+ },
+ {
+  "id": 15,
+  "name": "SLBC City FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://220.247.227.20:8000/citystream",
+  "format": "mp3"
+ },
+ {
+  "id": 16,
+  "name": "SLBC Welanda Sewaya",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://220.247.227.6:8000/Scomstream",
+  "format": "mp3"
+ },
+ {
+  "id": 17,
+  "name": "SLBC Rajarata Sewaya",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://220.247.227.20:8000/rajaratastream",
+  "format": "mp3"
+ },
+ {
+  "id": 18,
+  "name": "SLBC Kandurata FM",
+  "frequency": "",
+  "language": "Sinhala",
+  "url": "http://220.247.227.20:8000/kandystream",
+  "format": "mp3"
+ },
+ {
+  "id": 19,
+  "name": "Sun FM",
+  "frequency": "",
+  "language": "English",
+  "url": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+  "format": "mp3"
+ },
+ {
+  "id": 20,
+  "name": "Gold FM",
+  "frequency": "",
+  "language": "English",
+  "url": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+  "format": "mp3"
+ },
+ {
+  "id": 21,
+  "name": "Yes FM",
+  "frequency": "",
+  "language": "English",
+  "url": "http://live.trusl.com:1150/;",
+  "format": "aac"
+ },
+ {
+  "id": 22,
+  "name": "Kiss FM",
+  "frequency": "",
+  "language": "English",
+  "url": "https://srv01.onlineradio.voaplus.com/kissfm",
+  "format": "mp3"
+ },
+ {
+  "id": 23,
+  "name": "Lite 87.8",
+  "frequency": "87.8 FM",
+  "language": "English",
+  "url": "https://srv02.onlineradio.voaplus.com/lite878",
+  "format": "mp3"
+ },
+ {
+  "id": 24,
+  "name": "Real Radio",
+  "frequency": "97.1 FM",
+  "language": "English",
+  "url": "https://srv02.onlineradio.voaplus.com/realfm",
+  "format": "mp3"
+ },
+ {
+  "id": 25,
+  "name": "Legends 96.6",
+  "frequency": "96.6 FM",
+  "language": "English",
+  "url": "https://mbc.thestreamtech.com:8585/stream",
+  "format": "aac"
+ },
+ {
+  "id": 26,
+  "name": "SLBC Radio Sri Lanka",
+  "frequency": "",
+  "language": "English",
+  "url": "http://220.247.227.20:8000/RSLstream",
+  "format": "mp3"
+ },
+ {
+  "id": 27,
+  "name": "Radio Plus",
+  "frequency": "",
+  "language": "Mixed",
+  "url": "https://altair.streamerr.co/stream/8036",
+  "format": "mp3"
+ },
+ {
+  "id": 28,
+  "name": "Radio Plus Hitz",
+  "frequency": "",
+  "language": "Mixed",
+  "url": "https://altair.streamerr.co/stream/8054",
+  "format": "mp3"
+ },
+ {
+  "id": 29,
+  "name": "Star FM",
+  "frequency": "",
+  "language": "",
+  "url": "https://stream.starfm.lk:12025/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 30,
+  "name": "Sooriyan FM",
+  "frequency": "",
+  "language": "Tamil",
+  "url": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden",
+  "format": "mp3"
+ },
+ {
+  "id": 31,
+  "name": "Shakthi FM",
+  "frequency": "103.9 / 104.1 FM",
+  "language": "Tamil",
+  "url": "https://mbc.thestreamtech.com:8086/stream",
+  "format": "aac"
+ },
+ {
+  "id": 32,
+  "name": "Vasantham FM",
+  "frequency": "",
+  "language": "Tamil",
+  "url": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+  "format": "mp3"
+ },
+ {
+  "id": 33,
+  "name": "SLBC Thendral FM",
+  "frequency": "",
+  "language": "Tamil",
+  "url": "http://220.247.227.20:8000/Threndralstream",
+  "format": "mp3"
+ }
+]
